@@ -1,4 +1,4 @@
-package com.ksboot.mongd.demo.service;
+package com.ksboot.mongd.demo.provider;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
